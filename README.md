@@ -189,6 +189,10 @@ Menambahkan:
 
 ![Code](https://github.com/NadhiaShafira/UTS_PENGOLAHANCITRA/blob/4db74c578ac165d865839b6e4161ca2430583aa5/ss_uts_citra/codingss2.png)
 
+![Code](https://github.com/NadhiaShafira/UTS_PENGOLAHANCITRA/blob/0f896a17148e6c79c73d1281f6d4d66b9e155483/ss_uts_citra/codingss3.png)
+
+![Code]()
+
 ---
 
 ### 📌 Struktur Folder
