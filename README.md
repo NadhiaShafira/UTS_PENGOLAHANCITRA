@@ -154,7 +154,7 @@ Penjelasan:
 
 Menambahkan konversi grayscale
 
-![foto]()
+![foto](https://github.com/NadhiaShafira/UTS_PENGOLAHANCITRA/blob/a32c7b9ebd9d15298f440e451263876f18a5d31d/ss_uts_citra/ss2.png)
 
 ### 🔹 Tahap 3
 
