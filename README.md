@@ -169,7 +169,7 @@ Menambahkan:
 * Adaptive Threshold
 * Otsu Threshold
 
-![foto]()
+![foto](https://github.com/NadhiaShafira/UTS_PENGOLAHANCITRA/blob/4509d5016f6a1606c7d0c2d39e6274e9df646367/ss_uts_citra/ss4.png)
 
 ### 🔹 Tahap 5 (Final)
 
