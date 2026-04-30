@@ -191,6 +191,8 @@ Menambahkan:
 
 ![Code](https://github.com/NadhiaShafira/UTS_PENGOLAHANCITRA/blob/0f896a17148e6c79c73d1281f6d4d66b9e155483/ss_uts_citra/codingss3.png)
 
+![Code](https://github.com/NadhiaShafira/UTS_PENGOLAHANCITRA/blob/ece8569d41ee404267701c499e3e268df2f843ca/ss_uts_citra/codingss4.png)
+
 ![Code]()
 
 ---
