@@ -160,7 +160,7 @@ Menambahkan konversi grayscale
 
 Menambahkan thresholding (biner)
 
-![foto]()
+![foto](https://github.com/NadhiaShafira/UTS_PENGOLAHANCITRA/blob/8888cc5fd1458aeb12120d5e027b2849837d690d/ss_uts_citra/ss3.png)
 
 ### 🔹 Tahap 4
 
