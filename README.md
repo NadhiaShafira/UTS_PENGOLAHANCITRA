@@ -185,13 +185,9 @@ Menambahkan:
 
 ### 📌 Source Code
 
-📍 Letakkan di:
+![Code](https://github.com/NadhiaShafira/UTS_PENGOLAHANCITRA/blob/fae73b6691401fcb4b712d418a5676f10e9a45e5/ss_uts_citra/codingss1.png)
 
-```
-hasil/hasil2.png
-```
-
-![Code](hasil/hasil2.png)
+![Code]()
 
 ---
 
