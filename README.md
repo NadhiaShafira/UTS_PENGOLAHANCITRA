@@ -150,15 +150,17 @@ Penjelasan:
 
 ![foto]()
 
-![foto]()
-
 ### 🔹 Tahap 2
 
 Menambahkan konversi grayscale
 
+![foto]()
+
 ### 🔹 Tahap 3
 
 Menambahkan thresholding (biner)
+
+![foto]()
 
 ### 🔹 Tahap 4
 
@@ -167,25 +169,15 @@ Menambahkan:
 * Adaptive Threshold
 * Otsu Threshold
 
+![foto]()
+
 ### 🔹 Tahap 5 (Final)
 
 Menambahkan:
 
 * Edge Detection (Canny)
 
----
-
-## 🖼️ Hasil Output
-
-### 📌 Hasil Lengkap
-
-📍 Letakkan di:
-
-```
-hasil/hasil1.png
-```
-
-![Hasil](hasil/hasil1.png)
+![foto]()
 
 ---
 
