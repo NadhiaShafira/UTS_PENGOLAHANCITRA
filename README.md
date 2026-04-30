@@ -148,7 +148,7 @@ Penjelasan:
 
 ### 🔹 Tahap 1
 
-![foto]()
+![foto](https://github.com/NadhiaShafira/UTS_PENGOLAHANCITRA/blob/e6f34dfc72f02a02b07582271b8e765ab4ec8400/ss_uts_citra/ss1.png)
 
 ### 🔹 Tahap 2
 
