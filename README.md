@@ -199,13 +199,7 @@ Menambahkan:
 
 ### 📌 Struktur Folder
 
-📍 Letakkan di:
-
-```
-hasil/hasil3.png
-```
-
-![Struktur](hasil/hasil3.png)
+![Struktur](https://github.com/NadhiaShafira/UTS_PENGOLAHANCITRA/blob/7923ad57df688b12fb44d9cb26b9b75cb305b2a1/ss_uts_citra/strukturfolder.png)
 
 ---
 
@@ -239,8 +233,3 @@ python main.py
 ```
 
 ---
-
-## 👤 Author
-
-Nama: (Isi Nama Kamu)
-NIM: (Isi NIM Kamu)
